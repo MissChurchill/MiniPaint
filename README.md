@@ -5,6 +5,6 @@ See visual below which shows the app in action
 
 
 
-<img src='https://media.giphy.com/media/40cLh0xG3usDVVTFmw/giphy.gif'/>
+<img src='https://media.giphy.com/media/tYeuySTyU57JV5JOT9/giphy.gif'/>
 
 This app was developed while following a tutorial from the Udacity Android Kotlin Developer Nanodegree training program. The lesson covered 2D drawing surface.
